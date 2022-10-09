@@ -10,6 +10,10 @@
 [linkedin]: https://www.linkedin.com/in/egor-nikolaev-74a3501b8/
 
 
+
+
+
+
 ### Языки и инструменты:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
