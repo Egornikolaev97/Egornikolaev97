@@ -1,7 +1,10 @@
 #### Привет, я Егор 👋
 #### Я начинающий frontend-разработчик
 
-<div class="tenor-gif-embed" data-postid="26484614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/viciadoemcodar-gif-26484614">Viciadoemcodar GIF</a>from <a href="https://tenor.com/search/viciadoemcodar-gifs">Viciadoemcodar GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div id="header" align="center">
+  <img src="https://tenor.com/view/viciadoemcodar-gif-26484614" width="100"/>
+</div>
 
 ### Связаться со мной:
 
