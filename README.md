@@ -5,6 +5,7 @@
 
 [<img align="left" alt="EgorNikolaev | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="EgorNikolaev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [telegram]: https://t.me/egorick
 [linkedin]: https://www.linkedin.com/in/egor-nikolaev-74a3501b8/
 
