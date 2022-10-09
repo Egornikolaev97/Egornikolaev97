@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" width="100"/>
+  <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" width="200"/>
 </div>
 
 ### Связаться со мной:
