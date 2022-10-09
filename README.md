@@ -9,10 +9,7 @@
 [telegram]: https://t.me/egorick
 [linkedin]: https://www.linkedin.com/in/egor-nikolaev-74a3501b8/
 
-
-
-
-
+<br />
 
 ### Языки и инструменты:
 
