@@ -2,7 +2,7 @@
 #### Я начинающий frontend-разработчик
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/6M8G.gif" width="100"/>
+  <img src="https://i.gifer.com/3otv.gif" width="100"/>
 </div>
 
 ### Связаться со мной:
