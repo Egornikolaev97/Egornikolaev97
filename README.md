@@ -22,6 +22,10 @@
 * [Russian Places](https://github.com/Egornikolaev97/russian-places): адаптивный одностраничный сайт про путешествия по России
 * [Mesto](https://github.com/Egornikolaev97/react-mesto-api-full): интерактивный сервис для публикации фотографий
 
+### Моя статистика:
+![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egornikolaev97&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egornikolaev97&layout=compact&theme=tokyonight)](https://github.com/Egornikolaev97/github-readme-stats)
+
 #### Связаться со мной:
 [<img align="left" alt="EgorNikolaev | telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="EgorNikolaev | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
