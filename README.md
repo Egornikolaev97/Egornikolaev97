@@ -4,8 +4,6 @@
 [telegram]: https://t.me/egorick
 [linkedin]: https://www.linkedin.com/in/egor-nikolaev-74a3501b8/
 
-<br />
-
 ### Языки и инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
