@@ -13,13 +13,15 @@
 <br />
 
 ### Языки и инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+</div>
 
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
-![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
-![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg)
-![Webpack](https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg)
-![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)
-![Express](https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg)
