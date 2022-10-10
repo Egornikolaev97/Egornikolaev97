@@ -2,6 +2,11 @@
 #### Я начинающий frontend-разработчик
 ![](https://komarev.com/ghpvc/?username=Egornikolaev97&style=flat-square&color=blueviolet)
 
+## Пару слов обо мне:
+* изучаю веб-разработку 
+* стараюсь осваивать современные технологии
+* мечтаю стать востребованным специалистом 
+
 [telegram]: https://t.me/egorick
 [linkedin]: https://www.linkedin.com/in/egor-nikolaev-74a3501b8/
 
