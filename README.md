@@ -2,10 +2,6 @@
 #### Я начинающий frontend-разработчик
 
 
-<div id="header" align="center">
-  <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" width="300"/>
-</div>
-
 ### Связаться со мной:
 
 [<img align="left" alt="EgorNikolaev | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
