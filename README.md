@@ -1,11 +1,6 @@
 ## Привет, я Егор 👋
-#### Я начинающий frontend-разработчик
+#### frontend-разработчик
 ![](https://komarev.com/ghpvc/?username=Egornikolaev97&style=flat-square&color=blueviolet)
-
-## Пару слов обо мне:
-* изучаю веб-разработку 
-* осваиваю современные технологии
-* мечтаю стать востребованным специалистом 
 
 [telegram]: https://t.me/egorick
 [linkedin]: https://www.linkedin.com/in/egor-nikolaev-74a3501b8/
@@ -21,10 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-
-#### Мои проекты:
-* [Russian Places](https://github.com/Egornikolaev97/russian-places): адаптивный одностраничный сайт про путешествия по России
-* [Mesto](https://github.com/Egornikolaev97/react-mesto-api-full): интерактивный сервис для публикации фотографий
 
 ### Моя статистика:
 <a href="https://github.com/Egornikolaev97">
