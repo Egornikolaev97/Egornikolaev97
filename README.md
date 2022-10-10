@@ -14,11 +14,12 @@
 
 ### Языки и инструменты:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
+![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
+![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
+![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
+![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg)
+![Webpack](https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg)
+![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)
+![Express](https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg)
