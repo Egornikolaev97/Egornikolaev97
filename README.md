@@ -18,7 +18,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+#### Мои проекты:
+* [Russian Places](https://github.com/Egornikolaev97/russian-places): адаптивный одностраничный сайт про путешествия по России
+* [Mesto](https://github.com/Egornikolaev97/react-mesto-api-full): интерактивный сервис для публикации фотографий
+
 #### Связаться со мной:
-[<img align="left" alt="EgorNikolaev | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="EgorNikolaev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="EgorNikolaev | telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="EgorNikolaev | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
