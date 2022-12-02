@@ -1,4 +1,4 @@
-## Привет, я Егор 👋
+## Привет, я Егор
 #### frontend-разработчик
 ![](https://komarev.com/ghpvc/?username=Egornikolaev97&style=flat-square&color=blueviolet)
 
