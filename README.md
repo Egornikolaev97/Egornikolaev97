@@ -17,12 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 
-### Моя статистика:
-<a href="https://github.com/Egornikolaev97">
-  <img height="160em " src="https://github-readme-stats.vercel.app/api?username=Egornikolaev97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egornikolaev97&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 #### Связаться со мной:
 [<img align="left" alt="EgorNikolaev | telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="EgorNikolaev | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
